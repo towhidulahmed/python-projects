@@ -14,10 +14,3 @@ This is a simple Python script to parse an Nmap scan output saved as a text file
 - Python 3.x
 - A text file containing the output of an Nmap scan
 
-## How to Generate the Nmap Report
-
-You can generate a report by running:
-
-```bash
-nmap scanme.namp.org > nmap-scan.txt
-
